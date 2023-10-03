@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Making the list
+- [ ] It's amazing to do so
+- [ ] Learnig new things
